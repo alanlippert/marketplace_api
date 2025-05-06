@@ -1,9 +1,11 @@
 # Readme Best Practices
 > A place to copy-paste your README.md from
 
-One of the most crucial things in your open-source project is the `README.md`
-file. This repository has a ready-to-copy-paste template you can use for all
-your projects.
+O intuito do projeto Rails API tem como foco termos uma aplcação com boas práticas para que possamos utilizar como referência em todos os projetos desenvolvidos.
+
+## Versions
+    * Ruby 3.8.0
+    * Rails 8
 
 ## Getting started
 
@@ -49,6 +51,10 @@ This project makes it easy to:
 * Bootstrap your open-source project properly
 * Make sure everyone gets what you're trying to achieve with your project
 * Follow simple instructions for a perfect `README.md`
+
+## Diagramas
+
+## Database
 
 ## Contributing
 
